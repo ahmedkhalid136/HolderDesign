@@ -1,0 +1,46 @@
+
+p span{
+    color: #1C5089  
+}
+p{
+    color: #571310
+}
+
+img{
+    height: 80px;
+}
+
+.box{
+    background-color:#003366;
+    width:100%;
+    padding: 5%;
+    line-height:2
+}
+
+.box p{
+    color: white
+}
+
+
+.image{
+    width: 100%;
+    height: 400px;
+    background-color: lightblue
+}
+li a{
+    color: white !important;
+    border-right: 2px solid black !important;
+}
+nav{
+    background-color: #1C5089 !important;
+}
+
+.fs-4:hover{
+    text-decoration:underline;
+}
+
+footer{
+    text-align:center;
+    background-color: lightgrey;
+    padding:5px
+}
