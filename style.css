@@ -10,6 +10,11 @@ img{
     height: 80px;
 }
 
+.main-image{
+    height: 400px;
+    width:100%;
+}
+
 .box{
     background-color:#003366;
     width:100%;
@@ -35,7 +40,7 @@ nav{
     background-color: #1C5089 !important;
 }
 
-.fs-4:hover{
+.fs-5:hover{
     text-decoration:underline;
 }
 
