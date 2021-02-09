@@ -1,0 +1,25 @@
+.image{
+    margin: 50px 0;
+
+}
+.code p span{
+    color: #1C5089  
+}
+.code p{
+    color: #571310
+}
+
+.flash{
+    height:300px;
+    width:100%;
+    background-color:lightblue
+}
+.box{
+    background-color:#1C5089;
+    width:100%;
+    padding: 5%;
+    line-height:2
+}
+.box p{
+    color: white
+}
