@@ -3,16 +3,28 @@
 
 }
 .code p span{
-    color: #1C5089  
+    color: #02366d  
 }
 .code p{
     color: #571310
+}
+
+a{
+    color: #1C5089;
+    text-decoration:none
+}
+a:hover{
+    text-decoration:underline
 }
 
 .flash{
     height:300px;
     width:100%;
     background-color:lightblue
+}
+.flash img{
+    height:300px;
+    width:100%;
 }
 .box{
     background-color:#1C5089;
